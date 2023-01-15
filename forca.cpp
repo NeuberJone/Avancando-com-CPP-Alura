@@ -3,7 +3,6 @@
 #include <map>
 #include <vector>
 #include <fstream>
-#include <ctime>
 #include <cstdlib>
 #include "letraExiste.hpp"
 #include "imprimeCabecalho.hpp"

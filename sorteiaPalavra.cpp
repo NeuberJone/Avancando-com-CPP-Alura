@@ -1,6 +1,7 @@
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
+#include <ctime>
 #include "sorteiaPalavra.hpp"
 #include "leArquivo.cpp"
 
